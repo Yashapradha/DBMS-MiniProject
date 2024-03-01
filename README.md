@@ -1,4 +1,4 @@
-_**WOW FOOD**_
+`_**WOW FOOD**_`
 
 Welcome to our **WOW FOOD**! This website is designed using PHP and MySQL, allowing users to browse a variety of delicious dishes and place orders online. Whether you're craving pizza, burgers, or momo, we've got you covered.
 
