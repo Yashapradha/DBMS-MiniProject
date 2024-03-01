@@ -5,11 +5,11 @@ Welcome to our **WOW FOOD**! This website is designed using PHP and MySQL, allow
 _Features_
 >Browse through our extensive menu to find your favorite dishes.
 >
-Place orders easily with our user-friendly interface.
+>Place orders easily with our user-friendly interface.
 
 _Technologies Used_
 >PHP for server-side scripting
 >
-MySQL for the database
+>MySQL for the database
 
-HTML, CSS, JavaScript for the front-end
+>HTML, CSS, JavaScript for the front-end
